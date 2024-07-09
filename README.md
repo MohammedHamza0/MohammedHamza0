@@ -32,9 +32,8 @@ I work with a variety of technologies and tools:
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle&logoColor=white)    
 ![Python](https://img.shields.io/badge/Python-Gold-FFD700?style=flat&logo=python&logoColor=white)    
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white)   
-![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white)     
-![LeetCode](https://img.shields.io/badge/LeetCode-Top%20Contributor-FFA116?style=flat&logo=leetcode&logoColor=white)  
+
+
 
 
 ### 📫 How to Reach Me
